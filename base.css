@@ -2,4 +2,7 @@ body {
 	background-color: black;
 	color: white;
 }
-
+#name {
+	color:purple;
+	text-align:center;
+}
