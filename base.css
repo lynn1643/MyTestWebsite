@@ -1,8 +1,17 @@
 body {
 	background-color: black;
-	color: white;
+	color: purple;
 }
+hr {
+	color:white;
+}
+h1 {
+	text-align:center;
+}
+<<<<<<< HEAD
 #name {
 	color:purple;
 	text-align:center;
 }
+=======
+>>>>>>> gh-pages
